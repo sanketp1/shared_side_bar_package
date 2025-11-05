@@ -29,7 +29,7 @@ A beautiful, responsive navigation package for Flutter that automatically adapts
 
 <video src=" https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045" controls title="Bottom navigation preview" width="360">
   Your browser does not support the video tag.
-  <a href=" https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045">View bottom navigation preview</a>
+  <a href="https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045">View bottom navigation preview</a>
   
 </video>
 
