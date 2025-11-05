@@ -19,19 +19,11 @@ A beautiful, responsive navigation package for Flutter that automatically adapts
 
 ### Sidebar (Desktop/Tablet)
 
-<video src="preview/sidebar.mp4" controls title="Sidebar preview" width="640">
-  Your browser does not support the video tag.
-  <a href="preview/sidebar.mp4">View sidebar preview</a>
-  
-</video>
+![Sidebar Preview](https://github.com/user-attachments/assets/b3da7d65-9d39-46aa-b100-4165ee1b2040)
 
 ### Bottom Navigation (Mobile)
 
-<video src="https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045" controls title="Bottom navigation preview" width="360">
-  Your browser does not support the video tag.
-  <a href="https://github.com/user-attachments/assets/b3da7d65-9d39-46aa-b100-4165ee1b2040">View bottom navigation preview</a>
-  
-</video>
+![Bottom Navigation Preview](https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045)
 
 ## 📦 Installation
 
