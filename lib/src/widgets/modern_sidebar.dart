@@ -162,9 +162,6 @@ class _ModernSidebarState extends State<ModernSidebar> {
   /// Width of the sidebar when collapsed.
   static const double _collapsedWidth = 72.0;
 
-  /// Duration for the sidebar expansion/collapse animations.
-  static const Duration _duration = Duration(milliseconds: 250);
-
   @override
   void dispose() {
     _isExpandedNotifier.dispose();

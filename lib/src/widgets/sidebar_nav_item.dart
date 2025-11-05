@@ -248,11 +248,11 @@ class _SidebarNavItemState extends State<SidebarNavItem>
               padding: EdgeInsets.all(widget.isExpanded ? 12 : 8),
               decoration: BoxDecoration(
                 color: widget.isSelected
-                    ? activeColor.withOpacity(0.12)
+                    ? activeColor.withValues(alpha: 0.12)
                     : Colors.transparent,
                 borderRadius: BorderRadius.circular(12),
                 border: widget.isSelected
-                    ? Border.all(color: activeColor.withOpacity(0.2))
+                    ? Border.all(color: activeColor.withValues(alpha: 0.2))
                     : null,
               ),
               child: AnimatedSwitcher(
