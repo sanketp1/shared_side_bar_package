@@ -6,6 +6,14 @@ A beautiful, responsive navigation package for Flutter that automatically adapts
 ![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+---
+
+## 🔗 Pub.dev
+
+📦 **Package:** [shared_side_bar_package](https://pub.dev/packages/shared_side_bar_package)
+
+---
+
 ## ✨ Features
 
 - **Responsive Design** - Automatically switches between sidebar and bottom navigation
