@@ -1,7 +1,14 @@
 name: shared_side_bar_package
-description: A responsive navigation package that automatically switches between sidebar and bottom navigation based on screen size with smooth transitions.
-version: 0.1.0+1
-publish_to: none
+description: A responsive Flutter navigation package that adapts between sidebar and bottom navigation with smooth animations.
+version: 1.0.0
+repository: https://github.com/sanketp1/shared_side_bar_package
+issue_tracker: https://github.com/sanketp1/shared_side_bar_package/issues
+homepage: https://github.com/sanketp1
+screenshots:
+  - path: preview\bottom_nav_bar.mp4
+    description: Sidebar preview on desktop/tablet
+  - path: preview\sidebar.mp4
+    description: Bottom navigation preview on mobile
 
 environment:
   sdk: ^3.9.0
