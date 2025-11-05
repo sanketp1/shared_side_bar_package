@@ -4,11 +4,12 @@ version: 1.0.0
 repository: https://github.com/sanketp1/shared_side_bar_package
 issue_tracker: https://github.com/sanketp1/shared_side_bar_package/issues
 homepage: https://github.com/sanketp1
-screenshots:
-  - path: preview\bottom_nav_bar.mp4
-    description: Sidebar preview on desktop/tablet
-  - path: preview\sidebar.mp4
-    description: Bottom navigation preview on mobile
+
+# screenshots:
+#   - path: preview\bottom_nav_bar.mp4
+#     description: Sidebar preview on desktop/tablet
+#   - path: preview\sidebar.mp4
+#     description: Bottom navigation preview on mobile
 
 environment:
   sdk: ^3.9.0
