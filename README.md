@@ -27,9 +27,9 @@ A beautiful, responsive navigation package for Flutter that automatically adapts
 
 ### Bottom Navigation (Mobile)
 
-<video src=" https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045" controls title="Bottom navigation preview" width="360">
+<video src="https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045" controls title="Bottom Nav Bar preview" width="640">
   Your browser does not support the video tag.
-  <a href=" https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045">View bottom navigation preview</a>
+  <a href="https://github.com/user-attachments/assets/a41b0253-17ed-435c-926c-d5e2c4625045">View Bottom Nav Bar preview</a>
   
 </video>
 
